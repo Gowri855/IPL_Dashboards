@@ -10,7 +10,7 @@
 
 # 2. Short Description / Purpose
 
-The MIverse Dashboard is a visually engaging and analytical Power BI project designed to explore complete IPL statistics while focusing specifically on Mumbai Indians (MI). The dashboard provides season-wise performance analysis, player comparisons, batting and bowling insights, scoring patterns, toss impact, and strategic match analysis using interactive visualizations and dynamic filters.
+The Dashboard is a visually engaging and analytical Power BI project designed to explore complete IPL statistics while focusing specifically on Mumbai Indians (MI). The dashboard provides season-wise performance analysis, player comparisons, batting and bowling insights, scoring patterns, toss impact, and strategic match analysis using interactive visualizations and dynamic filters.
 
 This dashboard is intended for cricket enthusiasts, sports analysts, IPL followers, data analytics learners, and recruiters who want to understand how data visualization can transform raw cricket data into meaningful insights and storytelling.
 
