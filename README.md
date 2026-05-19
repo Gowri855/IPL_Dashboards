@@ -1,9 +1,8 @@
 # PowerBi-Dashboards
-# IPL & Mumbai Indians Analytics Dashboard
 
 # 1. Project Title / Headline
 
-# 💙 MIverse: IPL & Mumbai Indians Performance Analytics Dashboard
+# IPL & Mumbai Indians Analytics Dashboard
 
 ### An interactive and data-driven Power BI dashboard built to analyze IPL seasons from 2008–2025 with deep insights into Mumbai Indians’ team performance, batting trends, bowling efficiency, match strategies, and player analytics.
 
